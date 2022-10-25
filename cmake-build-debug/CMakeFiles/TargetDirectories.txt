@@ -1,3 +1,0 @@
-/Users/daiweitao/CLionProjects/CameraToRTMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/daiweitao/CLionProjects/CameraToRTMP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/daiweitao/CLionProjects/CameraToRTMP/cmake-build-debug/CMakeFiles/CameraToRTMP.dir
